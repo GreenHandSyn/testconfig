@@ -29,3 +29,5 @@ IstMergeEnabled = false
 IstContainJson1best = true
 
 IstContainJsonCn = true
+
+test = hello
